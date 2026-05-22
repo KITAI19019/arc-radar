@@ -57,6 +57,8 @@ Scores use a 0–10 scale.
 - Users submit revision proposals.
 - Admins approve or reject revisions.
 - Keep the first version simple.
+- User-facing UI copy should be Simplified Chinese by default.
+- Code identifiers, file names, route names, and data keys may remain English.
 
 ## Technical Direction
 
