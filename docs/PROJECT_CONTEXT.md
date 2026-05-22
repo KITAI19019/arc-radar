@@ -63,7 +63,8 @@ Scores use a 0–10 scale.
 Preferred stack:
 
 - TypeScript
-- React, Astro, or Vite
+- React
+- Vite
 - Tailwind CSS
 - Cloudflare Pages or Workers
 - Cloudflare D1
